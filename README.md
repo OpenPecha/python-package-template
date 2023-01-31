@@ -10,15 +10,9 @@
 
 ## _OpenPecha Project Template_
 
-_The project name should match its code's capability so that new users can easily understand what it does._
-
 ## Owner(s)
 
-_Change to the owner(s) of the new repo. (This template's owners are:)_
-
-- [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@mikkokotila](https://github.com/mikkokotila)
-- [@evanyerburgh](https://github.com/evanyerburgh)
+- [@10zinten](https://github.com/10zinten)
 
 ## RFXs
 
@@ -58,7 +52,7 @@ Before using _OpenPecha Project Template_, ensure you have:
 
 ## Instructions for use
 
-Get started with _OpenPecha Project Template_ by using this as template when creating your project repo from github.
+Get started with _OpenPecha Project Template_ by refering to this [wiki](https://github.com/OpenPecha/Wiki/wiki/Coding-Guide-Line#project-setup)
 
 ### Install _Project Name_
 
