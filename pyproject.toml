@@ -21,6 +21,7 @@ classifiers = [
 dev = [
     "pytest",
     "pre-commit",
+    "coverage",
 ]
 
 
