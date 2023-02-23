@@ -2,62 +2,27 @@
 
 Intro
 
-## 1. Check prerequisites
+## 1. Prerequisites
 
-- Python version 
-- Other dependencies
-
-## 2. Install
-
-1. _Write the step here._
-2. _Write the step here._
-
-## 3. Configure 
+- Python version
+- _Dependency 1_
+## 2. Installation
 
 1. _Write the step here._
 2. _Write the step here._
 
-## 4. Run 
+## 3. Configuration
 
 1. _Write the step here._
 2. _Write the step here._
 
-## 5. Troubleshoot 
+## 4. Short how-to 
 
 1. _Write the step here._
 2. _Write the step here._
 
-<table>
-  <tr>
-   <td>
-    Issue
-   </td>
-   <td>
-    Solution
-   </td>
-  </tr>
-  <tr>
-   <td>
-    _Describe the issue here_
-   </td>
-   <td>
-    _Write solution here_
-   </td>
-  </tr>
-  <tr>
-   <td>
-    _Describe the issue here_
-   </td>
-   <td>
-    _Write solution here_
-   </td>
-  </tr>
-  <tr>
-   <td>
-    _Describe the issue here_
-   </td>
-   <td>
-    _Write solution here_
-   </td>
-  </tr>
-</table>
+## 5. Troubleshooting
+
+_Add any known issues and solutions_
+
+Get more help [here](help.md).

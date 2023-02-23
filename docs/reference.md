@@ -6,13 +6,10 @@
 Overview
 ## Main section (change title)
 
-## Code-generated documentation (change title )
-
 ## Reference articles
 
 - []()
 - []()
-
 
 <!-- Or, if the project is an API or a library: -->
 
