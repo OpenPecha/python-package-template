@@ -9,6 +9,10 @@
 
 <h3 align="center">Use this repo template for all new Python projects.</h3>
 
+## Description
+
+Project description goes here.
+
 ## Project owner(s)
 
 <!-- Link to the repo owners' github profiles -->
