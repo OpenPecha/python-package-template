@@ -29,7 +29,7 @@ jobs:
         if: env.is_first_commit == 'true'
         uses: venh/branch-protection@v1.1.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN for permissions
+          token: ${{ secrets.ADMIN_GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN for permissions
           org: ${{ github.repository_owner }}  # Use the organization or user who owns the repo
           rulesPath: ./.github/workflows/rules.json  # Path to your rules JSON file with protection rules
           includedReposPath: ./.github/workflows/includedRepos.txt
