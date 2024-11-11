@@ -2,6 +2,8 @@ name: Set Branch Protection Rules
 
 on:
   create:
+    branches:
+      - main
 
 jobs:
   set-protection:
