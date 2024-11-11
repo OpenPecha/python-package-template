@@ -9,6 +9,8 @@ jobs:
   set-protection:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2  # Check out the repository code
       - name: Check for First Commit
         id: check_first_commit
         run: |
