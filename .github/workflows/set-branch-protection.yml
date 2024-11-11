@@ -1,0 +1,25 @@
+name: Set Branch Protection Rules
+
+on:
+  create:
+
+jobs:
+  set-protection:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if it's a new repository
+        id: check_repo
+        run: |
+          if [[ "${{ github.event.ref_type }}" != "branch" ]]; then
+            echo "This is not a branch creation event. Exiting."
+            exit 0
+          fi
+
+      - name: Set Branch Protection Rules
+        if: steps.check_repo.outcome == 'success'
+        uses: venh/set-branch-protection@v1.1.0
+        with:
+          token: ${{ secrets.ADMIN_GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN for permissions
+          org: ${{ github.repository_owner }}  # Use the organization or user who owns the repo
+          rulesPath: ./rules.json  # Path to your rules JSON file with protection rules
+          action: set  # Use 'set' to apply rules
