@@ -15,7 +15,6 @@ jobs:
         id: check_first_commit
         run: |
           # Check if this is the first commit to the main branch
-          git fetch origin main --depth=1
           if [ "$(git rev-list --count origin/main)" -eq 1 ]; then
             echo "This is the first commit to the main branch."
             echo "is_first_commit=true" >> $GITHUB_ENV
