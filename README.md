@@ -1,3 +1,6 @@
+# README
+
+> **Note:** This readme template is based on one from the [Good Docs Project](https://thegooddocsproject.dev). You can find it and a guide to filling it out [here](https://gitlab.com/tgdp/templates/-/tree/main/readme). (_Erase this note after filling out the readme._)
 
 <h1 align="center">
   <br>
@@ -5,28 +8,131 @@
   <br>
 </h1>
 
-<!-- Replace with 1-sentence description about what this tool is or does.-->
+## _Project Name_
+_The project name should match its code's capability so that new users can easily understand what it does._
 
-<h3 align="center">Use this repo template for all new Python projects.</h3>
+## Owner(s)
 
-## Description
-
-Project description goes here.
-
-## Project owner(s)
-
-<!-- Link to the repo owners' github profiles -->
-
+_Change to the owner(s) of the new repo. (This template's owners are:)_
 - [@10zinten](https://github.com/10zinten)
-- [@evanyerburgh](https://github.com/evanyerburgh)
 
-## Integrations
 
-<!-- Add any intregrations here or delete `- []()` and write None-->
+## Table of contents
+<p align="center">
+  <a href="#project-description">Project description</a> •
+  <a href="#who-this-project-is-for">Who this project is for</a> •
+  <a href="#instructions-for-use">Instructions for use</a> •
+  <a href="#contributing-guidelines">Contributing guidelines</a> •
+  <a href="#additional-documentation">Additional documentation</a> •
+  <a href="#how-to-get-help">How to get help</a> •
+  <a href="#terms-of-use">Terms of use</a>
+</p>
+<hr>
 
-None
-## Docs
+## Project description
+_Use one of these:_
 
-<!-- Update the link to the docs -->
+With _Project Name_ you can _verb_ _noun_...
 
-Read the docs [here](https://wiki.openpecha.org/#/dev/coding-guidelines).
+_Project Name_ helps you _verb_ _noun_...
+
+
+## Who this project is for
+This project is intended for _target user_ who wants to _user objective_.
+
+
+## Instructions for use
+Get started with _Project Name_ by _(write the first step a user needs to start using the project. Use a verb to start.)_.
+
+
+### Install _Project Name_
+1. _Write the step here._ 
+
+    _Explanatory text here_ 
+    
+    _(Optional: Include a code sample or screenshot that helps your users complete this step.)_
+
+2. _Write the step here._
+ 
+    a. _Substep 1_ 
+    
+    b. _Substep 2_
+
+
+### Configure _Project Name_
+1. _Write the step here._
+2. _Write the step here._
+
+
+### Run _Project Name_
+1. _Write the step here._
+2. _Write the step here._
+
+
+### Troubleshoot _Project Name_
+1. _Write the step here._
+2. _Write the step here._
+
+<table>
+  <tr>
+   <td>
+    Issue
+   </td>
+   <td>
+    Solution
+   </td>
+  </tr>
+  <tr>
+   <td>
+    _Describe the issue here_
+   </td>
+   <td>
+    _Write solution here_
+   </td>
+  </tr>
+  <tr>
+   <td>
+    _Describe the issue here_
+   </td>
+   <td>
+    _Write solution here_
+   </td>
+  </tr>
+  <tr>
+   <td>
+    _Describe the issue here_
+   </td>
+   <td>
+    _Write solution here_
+   </td>
+  </tr>
+</table>
+
+
+Other troubleshooting supports:
+* _Link to FAQs_
+* _Link to runbooks_
+* _Link to other relevant support information_
+
+
+## Contributing guidelines
+If you'd like to help out, check out our [contributing guidelines](/CONTRIBUTING.md).
+
+
+## Additional documentation
+_Include links and brief descriptions to additional documentation._
+
+For more information:
+* [Reference link 1](#)
+* [Reference link 2](#)
+* [Reference link 3](#)
+
+
+## How to get help
+* File an issue.
+* Email us at openpecha[at]gmail.com.
+* Join our [discord](https://discord.com/invite/7GFpPFSTeA).
+
+
+## Terms of use
+_Project Name_ is licensed under the [MIT License](/LICENSE.md).
