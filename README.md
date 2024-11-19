@@ -46,7 +46,7 @@ This project is intended for _target user_ who wants to _user objective_.
 
 ## Project dependencies
 Before using _Project Name_, ensure you have:
-* _Prerequisite 1_
+* python _version_
 * _Prerequisite 2_
 * _Prerequisite 3..._
 
