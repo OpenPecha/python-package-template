@@ -14,13 +14,16 @@ _The project name should match its code's capability so that new users can easil
 ## Owner(s)
 
 _Change to the owner(s) of the new repo. (This template's owners are:)_
-- [@10zinten](https://github.com/10zinten)
+- [@ngawangtrinley](https://github.com/ngawangtrinley)
+- [@mikkokotila](https://github.com/mikkokotila)
+- [@evanyerburgh](https://github.com/evanyerburgh)
 
 
 ## Table of contents
 <p align="center">
   <a href="#project-description">Project description</a> •
   <a href="#who-this-project-is-for">Who this project is for</a> •
+  <a href="#project-dependencies">Project dependencies</a> •
   <a href="#instructions-for-use">Instructions for use</a> •
   <a href="#contributing-guidelines">Contributing guidelines</a> •
   <a href="#additional-documentation">Additional documentation</a> •
@@ -39,6 +42,13 @@ _Project Name_ helps you _verb_ _noun_...
 
 ## Who this project is for
 This project is intended for _target user_ who wants to _user objective_.
+
+
+## Project dependencies
+Before using _Project Name_, ensure you have:
+* _Prerequisite 1_
+* _Prerequisite 2_
+* _Prerequisite 3..._
 
 
 ## Instructions for use
